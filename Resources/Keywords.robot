@@ -13,13 +13,15 @@ Open Webpage
     Open Browser  ${url}    ${browser}
     Maximize Browser Window
 
-Select Job Offer
+Click On Job Offers Link
     Click Element   ${joboffers}
+
+Click On First Possible Job Offer
     Click Element   ${offer}
 
-Test Of Apply Now Button
+Click On Apply Now Button
     Click Element   ${apply}
 
-Finish Test Case
-    BuiltIn.Sleep   1
+Close Webpage
+    BuiltIn.Sleep   3
     Close Browser
