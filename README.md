@@ -14,4 +14,8 @@ or to get TC with logs enter: robot -d Tests Tests/ApplyButton.robot
 ***********************************************************************
 Suite Setup    Set Selenium Speed  1 - To observe test progress
 
-Link to manual test case -----> https://tinyurl.com/yc6h997x
+Link to H4H manual test case -----> https://tinyurl.com/yc6h997x
+
+
+
+https://robotframework.org/
