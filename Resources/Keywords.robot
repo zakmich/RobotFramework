@@ -23,5 +23,5 @@ Click On Apply Now Button
     Click Element   ${apply}
 
 Close Webpage
-    BuiltIn.Sleep   3
+    BuiltIn.Sleep  3
     Close Browser

@@ -1,7 +1,7 @@
 *** Settings ***
 Library         SeleniumLibrary
 Resource        ../Resources/Keywords.robot
-Suite Setup    Set Selenium Speed  1
+Suite Setup    Set Selenium Speed   1
 
 *** Test Cases ***
 Test to verify that apply for job button works correctly
