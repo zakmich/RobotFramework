@@ -11,4 +11,4 @@ Test to verify that apply for job button works correctly
     Click On Job Offers Link
     Click On First Possible Job Offer
     Click On Apply Now Button
-    Close Webpage
+    [Teardown]  Close Webpage
